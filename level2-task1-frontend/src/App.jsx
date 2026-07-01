@@ -23,7 +23,7 @@ function App() {
 
   if (loading) {
     return <h2>Loading Products...</h2>;
-  }
+  } 
 
   return (
     <div className="container">
